@@ -1,0 +1,28 @@
+.error-message{
+    color: red;
+}
+.notesSection{
+    margin:auto;
+    margin-top:2em;
+    width:75vw;
+}
+.notesInput{
+    display:flex;
+    flex-direction: column;
+}
+.submitButton{
+    display:flex;
+    justify-content: flex-end;
+}
+
+.noteDisplaySection{
+    display : flex;
+    margin:20px;
+}
+.noteCard{
+    margin:10px;
+    border-radius: 5px;
+}
+.cardTitle{
+    border-bottom: 1px dashed;
+}
